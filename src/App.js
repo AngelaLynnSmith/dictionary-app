@@ -1,4 +1,4 @@
-import logo from "./ALS-clean-logo.png";
+import logo from "./ALS-logo-short.JPG";
 import './App.css';
 
 export default function App() {
