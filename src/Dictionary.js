@@ -28,7 +28,7 @@ export default function Dictionary() {
 		<div className="Dictionary">
 			<form onSubmit={search}>
 				<input
-					tpe="search"
+					type="search"
 					onChange={handleKeywordChange}
 				/>
 			</form>
