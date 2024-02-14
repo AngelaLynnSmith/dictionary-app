@@ -14,14 +14,14 @@ export default function Meaning(props) {
                   <p>
                    {definition.definition && (
                     <>
-                     <strong> Definition:</strong>
+                          <strong>Definition:{" "}</strong>
                      {definition.definition}
                      <br />
                     </>
                    )}
                    {definition.example && (
                     <>
-                     <strong> Example:</strong>
+                     <strong> Example:{" "}</strong>
                      <em>{definition.example}</em>
                     </>
                    )}
