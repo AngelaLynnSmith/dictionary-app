@@ -2,9 +2,15 @@ body {
 background: #c8bff5;
 }
 
+.App {
+max-width: 960px;
+margin: 0 auto;
+}
+
 a {
   color: #5316ee;
 }
+
 
 .App-header {
   margin: 30px 0;
@@ -20,4 +26,5 @@ a {
 text-align: center;
  margin: 30px 0;
 }
+
 
