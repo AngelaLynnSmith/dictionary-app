@@ -51,8 +51,5 @@ export default function Dictionary(props) {
 	} else {
 		load();
 		return "Loading...";
-		function handleKeywordChange(event) {
-			setKeyword(event.target.value)
-		};
 	}
 }
