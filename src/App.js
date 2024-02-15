@@ -1,4 +1,3 @@
-import logo from "./ALS-logo-short.JPG";
 import './App.css';
 import Dictionary from "./Dictionary.js";
 
